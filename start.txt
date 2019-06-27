@@ -1,1 +1,3 @@
 Test Git Quick Start demo
+
+Edited text inside file
