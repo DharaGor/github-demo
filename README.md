@@ -6,3 +6,7 @@ A simple repository to show the basic Git workflow
 #Introduction
 
 #Purpose
+
+#Adding new section to the README
+
+#Content for comparing
