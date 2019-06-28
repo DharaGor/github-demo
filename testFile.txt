@@ -1,10 +1,13 @@
 Test file
 
 Merge content in between
+Here also changed content in "real-work" branch
 Changed content in master branch
 
 Adding Merging content
 
+Changed content in "real-work" branch
 Again testing in master branch
 
 Test text
+Real-work text
