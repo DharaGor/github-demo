@@ -1,3 +1,6 @@
 Test file
 
+Merge content in between
 Modifying content in test file
+
+Adding Merging content
