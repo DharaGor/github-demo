@@ -4,3 +4,5 @@ Merge content in between
 Modifying content in test file
 
 Adding Merging content
+
+Text for disabling fast merge
